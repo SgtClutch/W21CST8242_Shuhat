@@ -1,6 +1,6 @@
 # W21CST8242_Shuhat
 
-<center> <h1> Lab 6 Report</h1> </center>
+<center> <h1> Lab 7 Report</h1> </center>
 
 | **Course Name**  | **Windows Operating System \|\|\|**| 
 |:-------------| :-----------------------------:|
